@@ -33,7 +33,7 @@ python hocig.py
 
 HOCig our first ever tool on GitHub, please give your feedback. 
 
-
+Old Vrsion of HOCig is V1.0 found in https://github.com/hackersonlineclub/HOCig
 Currently, we are working on its Third version, where you will get more features.
 
 # Note: 
