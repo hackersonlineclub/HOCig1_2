@@ -1,5 +1,4 @@
 # HOCig1_2
-# HOCig
 HOC IG- Automatic HOC (Information Gathering) Tool
 
 You do not add to Library, it automatically detects and Run
