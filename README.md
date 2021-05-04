@@ -18,6 +18,8 @@ HOCig is our first ever tool on GitHub.
 7.  Port Scanner using SYN ACK Scan
 8.  OS Finger Printing
 9.  Crawl Target Website (includes Email, Sub-Domain, File Type )
+10.  DNS Scanner
+11.  Dmarc scanner for (spoofing email)
 
 # How To Install
 
@@ -26,6 +28,9 @@ git clone https://github.com/hackersonlineclub/HOCig1_2.git
 cd HOCig1_2
 
 python hocig.py
+
+use hocig_v3.py if want to use dmarc and DNS scanner
+python3 hocig_v3.py
 
 # Version
 1.2
